@@ -1,17 +1,9 @@
-ÁÄÌìÊÒ
+## å®‰è£…ä¾èµ–
+npm install
 
-´«Í³µÄ·½Ê½ÊÇä¯ÀÀÆ÷²»¶ÏÏò·þÎñÆ÷·¢ÆðÇëÇó£¬ÕâÑù»áÏûºÄ´óÁ¿×ÊÔ´
+## å¯åŠ¨æœåŠ¡
+npm start
 
-±¾ÏîÄ¿Ê¹ÓÃwebsocketÐ­Òé½øÐÐÍøÂçÍ¨ÐÅ£¬ÔÚ·þÎñÆ÷¶ËºÍ¿Í»§¶ËÖ®¼ä½¨Á¢¶à´ÎÇëÇó£¬¿ÉÒÔÍ¬Ê±·¢³öÇëÇó
-
-Ê¹ÓÃµÄ¼¼ÊõÒªµã°üÀ¨£º
-node.js express socket.io »¹ÓÐbootstrapÏà¹ØµÄjs¿â£ºsco.js Messenger.js
-
-socket.io
-io.emit·½·¨£¬±íÊ¾ÏòËùÓÐµÄ¿Í»§¶Ë·¢ËÍÐÅÏ¢£¬°üÀ¨×Ô¼º
-socket.broadcast.emit·½·¨£¬±íÊ¾ÏòÆäËû¿Í»§¶Ë·¢ËÍÐÅÏ¢£¬²»°üÀ¨×Ô¼º
-socket.emit·½·¨£¬±íÊ¾Ö»·¢ËÍ¸ø¿Í»§¶Ë×Ô¼º
-
-Í¼Æ¬·¢ËÍ
-²ÉÓÃÁËHTML5ÖÐµÄfileReader£¬Á÷µÄ¶ÁÈ¡·½Ê½
-¶ÔÀàÐÍÎªfileµÄÊäÈë¿ò½øÐÐÎÄ¼þ¶ÁÈ¡£¬this.files·µ»ØÒ»¸öÊý×é
+## æ‰“å¼€æµè§ˆå™¨ï¼Œåœ°å€æ è¾“å…¥
+localhost:3000
+è¿›å…¥èŠå¤©å®¤ï¼Œå¯ä»¥æ–°æ‰“å¼€çª—å£è¾“å…¥localhost:3000å¼€å§‹ç¾¤èŠå¤©
